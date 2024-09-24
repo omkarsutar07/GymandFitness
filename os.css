@@ -1,0 +1,7 @@
+.jumbotron {
+    background-image: url('https://via.placeholder.com/1200x400'); /* Replace with actual image */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+}

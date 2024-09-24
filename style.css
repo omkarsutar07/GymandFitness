@@ -1,0 +1,20 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.jumbotron {
+    background-image: url('https://via.placeholder.com/1200x400');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+}
+
+#services .card {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+}
